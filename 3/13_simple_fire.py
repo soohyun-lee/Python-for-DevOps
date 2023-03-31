@@ -4,7 +4,6 @@ Simple Fire example
 """
 import fire
 
-
 def greet(greeting='Hiya', name='Tammy'):
     print(f"{greeting} {name}")
 
